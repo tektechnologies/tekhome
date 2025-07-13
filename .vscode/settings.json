@@ -1,0 +1,12 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "[swift]": {
+    "editor.defaultFormatter": "sswg.swift-lang",
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2
+  },
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true
+} 
